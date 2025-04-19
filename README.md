@@ -1,2 +1,2 @@
 # blank
-Just blank project
+Just a blank project with discussions
